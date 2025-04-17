@@ -1,4 +1,5 @@
 # Emotion Detector for Twitter Captions 
+
 [Link to Colab Notebook]([https://example.com](https://colab.research.google.com/drive/1Q1OSkETsPRJlEtC-3sYsWlZM5k9_N6zq?usp=sharing))
 
 This project develops an emotion classification system for Twitter captions using DistilBERT to identify six emotions: sadness, joy, love, anger, fear, and surprise. It utilizes the Hugging Face ecosystem (`Datasets`, `Tokenizers`, `Transformers`) to process the "emotion" dataset and implement two approaches:
